@@ -40,7 +40,7 @@ export default class GoogleMaps extends Component {
 
     render(){
         return (
-            <div id="map" style={{ height: "500px", width: "900px"}} className="map">
+            <div id="map" style={{ height: "500px", width: "900px", margin: "50px auto 150px"}} className="map">
             </div>
         )
     }
